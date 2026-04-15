@@ -1,0 +1,7 @@
+services:
+  app:
+    build: .
+    container_name: workshop-atual
+    ports:
+      - "5002:5002"
+    restart: always
