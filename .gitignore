@@ -1,0 +1,5 @@
+node_modules
+.env
+dist
+# Se você quiser que o build vá para o GitHub, NÃO coloque ele aqui.
+# Mas geralmente build não vai para o git, a gente gera ele.

@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    // File Layout
+    "rootDir": "./src",
+    "rootDirs": ["./src"],   
+    "outDir": "./build",
+
+    "module": "commonjs",
+    "target": "ESNext",
+
+    // Other Outputs
+    "esModuleInterop":true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
